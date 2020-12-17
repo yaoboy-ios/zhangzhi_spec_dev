@@ -1,0 +1,25 @@
+{
+  "name": "VTMagic",
+  "version": "1.2.4",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://github.com/tianzhuo112/VTMagic",
+  "authors": {
+    "tianzhuo": "tianzhuo112@163.com"
+  },
+  "summary": "A page container for iOS.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n VTMagic is a page container library for iOS, it can manage many different pages. VTMagicView contains a menu bar and a content view, all pages are add to content view.",
+  "source": {
+    "http": "http://localhost:8080/frameworks/VTMagic/1.2.4/zip",
+    "type": "zip"
+  },
+  "public_header_files": "bin_VTMagic_1.2.4/Headers/*.h",
+  "source_files": "bin_VTMagic_1.2.4/Headers/*",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "frameworks": "UIKit",
+  "vendored_libraries": "bin_VTMagic_1.2.4/*.a"
+}
